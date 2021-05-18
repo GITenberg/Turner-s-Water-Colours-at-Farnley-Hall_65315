@@ -1,5 +1,8 @@
 _repo: Turner-s-Water-Colours-at-Farnley-Hall_65315
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65315-h/images/cover.jpg
 creator:
   author:
     agent_name: Finberg, A. J. (Alexander Joseph)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41747
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Joseph_Finberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65315#Turner-s-Water-Colours-at-Farnley-Hall
 gutenberg_issued: '2021-05-11'
 gutenberg_type: Text
 identifiers:
